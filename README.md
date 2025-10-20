@@ -10,8 +10,10 @@
 
 - **StatsMerging:** [Statistics-Guided Model Merging via Task-Specific Teacher Distillation](https://arxiv.org/abs/2506.04567) — *NeurIPS 2025 ★*  
 - **CodeFormer++:** [Blind Face Restoration Using Deformable Registration and Deep Metric Learning](https://arxiv.org/abs/2510.04410) — *(Under Review at AAAI 2026)*  
-- **MERGESERVE:** Label-Free, Statistics-Guided Merging for Multi-Task Video Analytics — *(Under Review at NSDI 2026 ★)*  
-
+- **MERGESERVE:** Label-Free, Statistics-Guided Merging for Multi-Task Video Analytics — *(Under Review at NSDI 2026 ★)*
+- **SS-HSI:** A Unified Self-Supervised Learning Pretext Task for Hyperspectral Image
+Reconstruction via Mask Guidance - *(To be submitted to CVPR 2026 ★)*
+- 
 ---
 
 ### 🧠 Note  
