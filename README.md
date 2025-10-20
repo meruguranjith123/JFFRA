@@ -13,7 +13,6 @@
 - **MERGESERVE:** Label-Free, Statistics-Guided Merging for Multi-Task Video Analytics — *(Under Review at NSDI 2026 ★)*
 - **SS-HSI:** A Unified Self-Supervised Learning Pretext Task for Hyperspectral Image
 Reconstruction via Mask Guidance - *(To be submitted to CVPR 2026 ★)*
-- 
 ---
 
 ### 🧠 Note  
